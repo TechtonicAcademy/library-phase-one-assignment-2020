@@ -2,9 +2,11 @@
 
 ## Instructions:
 
+- Clone this repository into your local `~/code` directory.
+
 - Initialize npm in your new local repository.
 
-- Install the ‘parcel-bundler’ npm package.
+- Install the `parcel-bundler` npm package.
 
 - Create your file structure. [See example structure here](https://docs.google.com/document/d/11NtcCcDG2fkXCbgA2YRrK77mt9W42mSo2Tq8AahwtUk/edit).
 
